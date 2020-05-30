@@ -1,8 +1,9 @@
 # The Reinforcement Learning Project For SJTU CS420.
 
-I implement two agent: double dqn agent and rainbow dqn agent. Although my rainbow dqn agent can be trained efficiently in easy game like pong and freeway, it can't work in hard game. Maybe the agent is so complicated for me that I can't find good hyper-parameters. I spent much time on my rainbow dqn agent but gave it up in the end. But it was too late, so I didn't have enough time to train Beam Rider and Atlantis with my simple ddqn agent before the deadline. 
+This is a sad story. ~~(I don't want to touch RL anymore.)~~
 
-~~(I don't want to touch RL anymore.)~~
+I implement two agent: double dqn agent and rainbow dqn agent. Although my rainbow dqn agent can be trained efficiently in easy game like pong and freeway, it can't work in harder game. Maybe the agent is so complicated for me that I can't find good hyper-parameters. I spent much time on my rainbow dqn agent but gave it up in the end. But it was too late, so I didn't have enough time to train Beam Rider and Atlantis with my simple ddqn agent before the deadline. 
+
 
 ## Performance
 
